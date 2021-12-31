@@ -1,2 +1,3 @@
 # SQL-DatabaseModel
-Course MySQL & Course Database Modeling assignments
+Course MySQL assignments
+Course Database Modeling & Design assignments
